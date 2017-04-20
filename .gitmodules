@@ -1,0 +1,3 @@
+[submodule "mod-a"]
+	path = mod-a
+	url = git@github.com:jayaprakash-altimetrik/mod-a.git
